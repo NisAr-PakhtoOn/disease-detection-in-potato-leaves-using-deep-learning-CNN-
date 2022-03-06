@@ -1,0 +1,1 @@
+# disease-detection-in-potato-leaves-using-deep-learning-CNN-
